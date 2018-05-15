@@ -1,4 +1,4 @@
-##React Demo 
+## React Demo 
 
 This project is the final result of following the [React JS Initial Demo](https://www.reactjs.org/tutorial/tutorial.html)
 
